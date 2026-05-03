@@ -285,7 +285,6 @@ Skills Demonstrated: Imbalanced Classification, Feature Importance, Model Interp
 Give it a ⭐ on GitHub and feel free to fork it for improvements!
 
 Connect with me:
-GitHub: YourUsername
-
-LinkedIn: Your Name
+GitHub: https://github.com/dp2005-lang
+LinkedIn: https://www.linkedin.com/in/debankita-panja-8482a2403/
 
