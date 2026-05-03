@@ -275,7 +275,7 @@ def predict_fraud(transaction, threshold=0.5):
     prediction = 'FRAUD' if proba >= threshold else 'NORMAL'
     return prediction, proba
 👨‍🎓 Author
-Name: Your Name
+Name: Debankita Panja
 Project Type: Machine Learning / Banking Analytics
 Level: Beginner Friendly
 Platform: Google Colab
